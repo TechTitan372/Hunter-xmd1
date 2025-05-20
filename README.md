@@ -267,4 +267,4 @@ jobs:
 
 
 
-Ⓜ️ `Give THANKS` **TO OBED TECHTITAN**
+Ⓜ️ `Give THANKS` **TO OBED TECH**
